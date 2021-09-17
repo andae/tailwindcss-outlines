@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-outlines",
+  "version": "1.0.0",
+  "description": "Tailwind CSS Outlines Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andae/tailwindcss-outlines.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "outline",
+    "plugin"
+  ],
+  "author": "andae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andae/tailwindcss-outlines/issues"
+  },
+  "homepage": "https://github.com/andae/tailwindcss-outlines#readme"
+}
