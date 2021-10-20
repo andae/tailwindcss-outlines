@@ -1,3 +1,5 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/andae/tailwindcss-outlines.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/andae/tailwindcss-outlines/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/andae/tailwindcss-outlines.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/andae/tailwindcss-outlines/context:javascript)
+
 # Tailwind CSS Outlines Plugin
 
 ## Installation
